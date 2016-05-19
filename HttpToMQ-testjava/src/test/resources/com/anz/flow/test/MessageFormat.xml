@@ -1,0 +1,8 @@
+<message xmlns:iib="http://com.ibm.iib/lt/1.0" iib:parser="WSRoot"
+	iib:injectable="true">
+	<BLOB iib:parser="none">
+		<UnknownParserName iib:valueType="CHARACTER"
+			iib:elementType="0x03000000"></UnknownParserName>
+		<BLOB iib:valueType="BLOB">MESSAGE_FORMAT</BLOB>
+	</BLOB>
+</message>
